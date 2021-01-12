@@ -215,9 +215,6 @@ a:hover {
 .l-bloc .divider-h span {
     border-color: rgba(0, 0, 0, .1);
 }
-.col-sm-12{
-    color: black;
-}
 .d-bloc .panel .a-btn,
 .l-bloc .a-btn,
 .l-bloc .navbar a,
@@ -777,7 +774,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: black!important;
 }
 
 .btn-atomic-tangerine {
